@@ -1,0 +1,41 @@
+p {
+    color: darkblue;
+  }
+  
+   .title {
+    border: 1px solid blue;
+     background-color: lightpink;
+  }
+  
+  #purple{
+    color: purple;
+  }
+  
+  h2,
+  .title-one {
+    color: purple;
+  }
+  
+  h1 {
+    font-family: cursive;
+  }
+  
+  a:hover{
+    color: orange;
+  }
+  
+  h3.destination {
+    font-size: 35px;
+  }
+  
+  .main-list li {
+    color: magenta;
+  }
+  
+  h3 {
+      font-family: monospace;
+    }
+
+body{
+    background-color: lightblue;
+}
